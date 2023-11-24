@@ -1,0 +1,19 @@
+.para {
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div_1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.para_2 {
+    font-size: 24px;
+}
+
+#div_2 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
